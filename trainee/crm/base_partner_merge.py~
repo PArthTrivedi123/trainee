@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # this is a simple change of comment first
-# this is a simple change of comment second
+# this is a simple change of comment first
 from __future__ import absolute_import
 from email.utils import parseaddr
 import functools
